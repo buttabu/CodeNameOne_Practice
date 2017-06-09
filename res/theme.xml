@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resource majorVersion="1" minorVersion="7" useXmlUI="false">
+    <image name="FullSizeRender 2.jpg"  />
+    <image name="IMG_2379.gif"  />
+    <image name="IMG_2379.gifImage3109363032926176086.jpg"  />
+    <theme name="Theme">
+        <val key="@includeNativeBool" value="true" />
+        <val key="sitebutton.align" value="4" />
+        <gradient key="sitebutton.bgGradient" color1="3355647" color2="13107" posX="0.5" posY="0.5" radius="1.0" />
+        <val key="sitebutton.bgType" value="7" />
+        <font key="sitebutton.font" type="system" face="0" style="1" size="16" />
+        <val key="sitebutton.textDecoration" value="1" />
+    </theme>
+</resource>
